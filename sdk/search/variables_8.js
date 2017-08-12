@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['name',['NAME',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1api_1_1_app_receives_append_receipt.html#a2e2a8b5e4b33363e36e2d75ff425c86c',1,'com.verifone.commerce.triggers.api.AppReceivesAppendReceipt.NAME()'],['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1api_1_1_app_requests_append_receipt.html#a2e2a8b5e4b33363e36e2d75ff425c86c',1,'com.verifone.commerce.triggers.api.AppRequestsAppendReceipt.NAME()'],['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1payment_1_1_commerce_receives_loyalty.html#a2e2a8b5e4b33363e36e2d75ff425c86c',1,'com.verifone.commerce.triggers.payment.CommerceReceivesLoyalty.NAME()'],['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1payment_1_1_commerce_requests_loyalty.html#a2e2a8b5e4b33363e36e2d75ff425c86c',1,'com.verifone.commerce.triggers.payment.CommerceRequestsLoyalty.NAME()']]],
-  ['network_5fconnection',['NETWORK_CONNECTION',['../classcom_1_1verifone_1_1peripherals_1_1_peripheral.html#a717b8198ca31e05fae0fe91f81559dec',1,'com::verifone::peripherals::Peripheral']]],
-  ['nocvv',['NOCVV',['../enumcom_1_1verifone_1_1commerce_1_1entities_1_1_transaction_1_1_manual_prompt_option.html#ad988ff60d7f5bd295c2d974a096a2390',1,'com::verifone::commerce::entities::Transaction::ManualPromptOption']]],
-  ['nonpaymenttrigger',['NONPAYMENTTRIGGER',['../enumcom_1_1verifone_1_1commerce_1_1triggers_1_1_commerce_message_1_1_message_types_enum.html#af407fbdf67c9d57b5b0e770f989c4bb9',1,'com::verifone::commerce::triggers::CommerceMessage::MessageTypesEnum']]]
+  ['jcb',['JCB',['../classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#a37ebf8eec7daccf214e856a3347e3586',1,'com::verifone::commerce::entities::CardInformation']]]
 ];

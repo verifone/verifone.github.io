@@ -1,7 +1,10 @@
 var classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation =
 [
-    [ "getDescription", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation.html#ad2a7b1ec647abb17da1af9bd2841c0a5", null ],
-    [ "getDonationAmount", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation.html#a96929835431181b255b1035ca9ffde92", null ],
-    [ "setDescription", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation.html#a2d6f9751547e539690898d50b77b1926", null ],
-    [ "setDonationAmount", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation.html#aee835ca097468bbf9b65334b433c54d9", null ]
+    [ "Donation", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation.html#a87d748bbd4608d22d6478a69480f76aa", null ],
+    [ "Donation", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation.html#af08c02048395c4fc902e03c5c99e191b", null ],
+    [ "getDescription", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation.html#ac7feffb7a33f63504ff1f87f19e2d2d8", null ],
+    [ "getDonationAmount", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation.html#ad54e4d5933a079ed8dee62d8b82112c6", null ],
+    [ "setDescription", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation.html#a1d15d718177c4f5411ce6ab339889fd4", null ],
+    [ "setDonationAmount", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation.html#a50732fd812202718fc60ad1606b6bd36", null ],
+    [ "writeToParcel", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation.html#a679436408fb653f1fa595e7faaec0cbd", null ]
 ];

@@ -1,6 +1,8 @@
 var classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchant =
 [
-    [ "getMerchantAddress", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchant.html#a7ef56e9d18754abde9bf7bdb92120b6a", null ],
-    [ "getMerchantId", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchant.html#a30c0421383db629d2326c1da6b46b32e", null ],
-    [ "getMerchantName", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchant.html#a5739741e0fbd1fe3b1956182aef06e61", null ]
+    [ "Merchant", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchant.html#a23db5681ff2140a715e9d2c6318cf0a9", null ],
+    [ "getMerchantAddress", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchant.html#a2b55d05d38ff6357d40dba33dcae4894", null ],
+    [ "getMerchantId", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchant.html#ae454ba2c49e26aee338f6b61f4109cec", null ],
+    [ "getMerchantName", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchant.html#afda4a3cccef85af9ad15cfb60f517e00", null ],
+    [ "writeToParcel", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchant.html#a679436408fb653f1fa595e7faaec0cbd", null ]
 ];

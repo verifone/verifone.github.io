@@ -11,7 +11,7 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", null ]
+        [ "Variables", "functions_vars.html", "functions_vars" ]
       ] ]
     ] ],
     [ "Files", null, [
@@ -23,8 +23,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 ".html",
-"classcom_1_1verifone_1_1commerce_1_1entities_1_1_payment.html#a72f95f33e185a5e690ceaa0a8784ee5a",
-"classcom_1_1verifone_1_1utilities_1_1_log.html"
+"classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_totals.html#a6e38c2495bb0a0cc018b91f665de9304",
+"classcom_1_1verifone_1_1commerce_1_1entities_1_1_output_content.html#ae7e9c51b24da65485e97363478704850",
+"classcom_1_1verifone_1_1commerce_1_1payment_1_1_basket_manager.html#a23996c51147be4214836a5c0a2663b63",
+"classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_card_bin_received.html#a6e51cc262bcfb448be7fbe98b0351e8e",
+"functions_func.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

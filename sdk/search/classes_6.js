@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['manualpromptoption',['ManualPromptOption',['../enumcom_1_1verifone_1_1commerce_1_1entities_1_1_transaction_1_1_manual_prompt_option.html',1,'com::verifone::commerce::entities::Transaction']]],
-  ['merchandise',['Merchandise',['../classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchandise.html',1,'com::verifone::commerce::entities']]],
-  ['merchant',['Merchant',['../classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchant.html',1,'com::verifone::commerce::entities']]],
-  ['merchantcontract',['MerchantContract',['../classcom_1_1verifone_1_1commerce_1_1content_1_1_merchant_contract.html',1,'com::verifone::commerce::content']]],
-  ['messagetypesenum',['MessageTypesEnum',['../enumcom_1_1verifone_1_1commerce_1_1triggers_1_1_commerce_message_1_1_message_types_enum.html',1,'com::verifone::commerce::triggers::CommerceMessage']]]
+  ['log',['Log',['../classcom_1_1verifone_1_1utilities_1_1_log.html',1,'com::verifone::utilities']]],
+  ['logininformation',['LoginInformation',['../classcom_1_1verifone_1_1commerce_1_1entities_1_1_login_information.html',1,'com::verifone::commerce::entities']]],
+  ['loyaltyidentifier',['LoyaltyIdentifier',['../classcom_1_1verifone_1_1commerce_1_1entities_1_1_loyalty_identifier.html',1,'com::verifone::commerce::entities']]],
+  ['loyaltyreceivedevent',['LoyaltyReceivedEvent',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_loyalty_received_event.html',1,'com::verifone::commerce::payment']]],
+  ['loyaltyresponse',['LoyaltyResponse',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_loyalty_response.html',1,'com::verifone::commerce::payment']]]
 ];

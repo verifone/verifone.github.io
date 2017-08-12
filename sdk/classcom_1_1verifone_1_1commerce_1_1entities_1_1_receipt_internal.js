@@ -1,0 +1,25 @@
+var classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal =
+[
+    [ "ReceiptInternal", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#ac96c5c12aff64913c337f46d479a371d", null ],
+    [ "appendFooterImageData", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#ae53fc6d5614af37c923a0019019c7ece", null ],
+    [ "buildOriginalHtmlFromTransactionInformation", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#acdeec1ad3ba14f8e2ced96f423318542", null ],
+    [ "getFooter", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a43e5dc224313219c34b93526ce5cd759", null ],
+    [ "getWrappedReceipt", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a99b49e4c4f5d51a387162238a6578bb7", null ],
+    [ "setBusinessInfo", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#afce2b3f9c9166b3b432a349f48cdd26d", null ],
+    [ "setCashierName", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a5ad6d5bde1a5b2c62d6e7677682cbda6", null ],
+    [ "setCustomFooter", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a82f2d7b8f175b49e97a40af41908bd4c", null ],
+    [ "setCustomGreeting", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#ade5e9bc4a3d31cd0849ba828140f8c09", null ],
+    [ "setFooter", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a32e18087b90de9d0a2b9b045fb8651f1", null ],
+    [ "setHasCustomFooter", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a8d6f755dd2d2786b69db418a694b6613", null ],
+    [ "setHasCustomHeader", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a84c3159355577b08228c2848af1bc499", null ],
+    [ "setIsCashierNameIncluded", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a793a13b6b062f514e5339266c3d3f951", null ],
+    [ "setIsLogoIncluded", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#ad6223e47f5fa4306734cc75176ce9600", null ],
+    [ "setIsOnlineUrlIncluded", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a928f275ee384098d31c96ec9c269e68f", null ],
+    [ "setIsQrCodeIncluded", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#af7b3c94cbdfdc9b1392df3fff557e286", null ],
+    [ "setOriginalHtml", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a75d3ad7298b7610ae0b409dbc0f108d7", null ],
+    [ "setOriginalImage", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#ab6d0bd1d24acaed5f8face38f0d12507", null ],
+    [ "setPaymentInformation", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a21f336947d8b9b0838844982390a75fd", null ],
+    [ "setReceiptType", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#aa00ec105cc96a6b29e41eb6eaa6ee7d2", null ],
+    [ "setTransactionInformation", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a8b74e1e7cf06793dc14f1aca98317f73", null ],
+    [ "writeToParcel", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html#a679436408fb653f1fa595e7faaec0cbd", null ]
+];

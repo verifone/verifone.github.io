@@ -1,15 +1,22 @@
 var namespacecom_1_1verifone_1_1commerce_1_1triggers =
 [
-    [ "api", null, [
-      [ "AppReceivesAppendReceipt", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1api_1_1_app_receives_append_receipt.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1api_1_1_app_receives_append_receipt" ],
-      [ "AppRequestsAppendReceipt", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1api_1_1_app_requests_append_receipt.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1api_1_1_app_requests_append_receipt" ]
-    ] ],
-    [ "payment", null, [
-      [ "CommerceReceivesLoyalty", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1payment_1_1_commerce_receives_loyalty.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1payment_1_1_commerce_receives_loyalty" ],
-      [ "CommerceRequestsLoyalty", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1payment_1_1_commerce_requests_loyalty.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1payment_1_1_commerce_requests_loyalty" ]
-    ] ],
-    [ "CommerceApi", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_commerce_api.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_commerce_api" ],
-    [ "CommerceAppMessage", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_commerce_app_message.html", null ],
-    [ "CommerceMessage", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_commerce_message.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_commerce_message" ],
-    [ "CommerceTrigger", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_commerce_trigger.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_commerce_trigger" ]
+    [ "CommerceTrigger", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_commerce_trigger.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_commerce_trigger" ],
+    [ "SystemNotifiesAmountFinalized", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_amount_finalized.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_amount_finalized" ],
+    [ "SystemNotifiesAuthorizationCompleted", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_authorization_completed.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_authorization_completed" ],
+    [ "SystemNotifiesBasketFinalized", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_basket_finalized.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_basket_finalized" ],
+    [ "SystemNotifiesCardBinReceived", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_card_bin_received.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_card_bin_received" ],
+    [ "SystemNotifiesCardPresented", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_card_presented.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_card_presented" ],
+    [ "SystemNotifiesPaymentCompleted", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_payment_completed.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_payment_completed" ],
+    [ "SystemNotifiesTransactionEnded", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_transaction_ended.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_transaction_ended" ],
+    [ "SystemNotifiesTransactionStarted", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_transaction_started.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_transaction_started" ],
+    [ "SystemReceivesAltPayment", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_alt_payment.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_alt_payment" ],
+    [ "SystemReceivesAmountAdjustment", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_amount_adjustment.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_amount_adjustment" ],
+    [ "SystemReceivesBasketAdjustment", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_basket_adjustment.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_basket_adjustment" ],
+    [ "SystemReceivesLoyalty", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_loyalty.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_loyalty" ],
+    [ "SystemReceivesPaymentAmountAdjustment", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment" ],
+    [ "SystemRequestsAltPayment", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_alt_payment.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_alt_payment" ],
+    [ "SystemRequestsAmountAdjustment", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_amount_adjustment.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_amount_adjustment" ],
+    [ "SystemRequestsBasketAdjustment", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_basket_adjustment.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_basket_adjustment" ],
+    [ "SystemRequestsLoyalty", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_loyalty.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_loyalty" ],
+    [ "SystemRequestsPaymentAmountAdjustment", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_payment_amount_adjustment.html", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_payment_amount_adjustment" ]
 ];

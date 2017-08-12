@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['log',['Log',['../classcom_1_1verifone_1_1utilities_1_1_log.html',1,'com::verifone::utilities']]],
-  ['loyaltyidentifier',['LoyaltyIdentifier',['../classcom_1_1verifone_1_1commerce_1_1entities_1_1_loyalty_identifier.html',1,'com::verifone::commerce::entities']]],
-  ['loyaltyreceivedevent',['LoyaltyReceivedEvent',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_loyalty_received_event.html',1,'com::verifone::commerce::payment']]],
-  ['loyaltyresponse',['LoyaltyResponse',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_loyalty_response.html',1,'com::verifone::commerce::payment']]]
+  ['idirectprintlistener',['IDirectPrintListener',['../interfacecom_1_1verifone_1_1peripherals_1_1_i_direct_print_listener.html',1,'com::verifone::peripherals']]],
+  ['idirectprintservice',['IDirectPrintService',['../interfacecom_1_1verifone_1_1peripherals_1_1_i_direct_print_service.html',1,'com::verifone::peripherals']]]
 ];

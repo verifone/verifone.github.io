@@ -1,6 +1,5 @@
 var classcom_1_1verifone_1_1commerce_1_1entities_1_1_venue =
 [
-    [ "getVenueAddress", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_venue.html#afd4513888c05378152e3af724a625e7f", null ],
-    [ "getVenueId", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_venue.html#a1db36d85fe7a430fb246a679b38dab45", null ],
-    [ "getVenueName", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_venue.html#a2eeb178796919171fbc3442c6552590e", null ]
+    [ "Venue", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_venue.html#aca46cc461f78dfd82c8f4155e45de9ee", null ],
+    [ "writeToParcel", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_venue.html#a679436408fb653f1fa595e7faaec0cbd", null ]
 ];

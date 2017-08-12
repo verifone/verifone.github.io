@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['modifydonation',['modifyDonation',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_basket_manager.html#abe33b949a934b95b32eaf5e0cbf74b95',1,'com::verifone::commerce::payment::BasketManager']]],
-  ['modifymerchandise',['modifyMerchandise',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_basket_manager.html#aaf080e635782954d6ce1fec783e897b5',1,'com::verifone::commerce::payment::BasketManager']]],
-  ['modifyoffer',['modifyOffer',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_basket_manager.html#ad516b8f7940bbb42121d6f54fac5629a',1,'com::verifone::commerce::payment::BasketManager']]]
+  ['linktobinder',['linkToBinder',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_transaction_manager.html#a20f1766e3ce9a34f2870b14c4b371754',1,'com::verifone::commerce::payment::TransactionManager']]],
+  ['loadstoredvaluecard',['loadStoredValueCard',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_transaction_manager.html#aa46af0f5d9b0f02d7726aef13f44aeac',1,'com::verifone::commerce::payment::TransactionManager']]],
+  ['login',['login',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_transaction_manager.html#a9153e502f1553a7895f50f62b75ac864',1,'com.verifone.commerce.payment.TransactionManager.login(@Nullable CommerceListener listener, @Nullable String userId, @Nullable String password, @Nullable String shiftNumber)'],['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_transaction_manager.html#a80eac80fa1f94a5cc941077321cfe3a4',1,'com.verifone.commerce.payment.TransactionManager.login(@Nullable ICommerceListener listener, @Nullable String userId, @Nullable String password, @Nullable String shiftNumber)']]],
+  ['logout',['logout',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_transaction_manager.html#abb3893d38c80e3a9b3802e8cf5e8fbd2',1,'com::verifone::commerce::payment::TransactionManager']]]
 ];

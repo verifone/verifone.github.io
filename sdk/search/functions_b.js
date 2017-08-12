@@ -1,11 +1,11 @@
 var searchData=
 [
-  ['parseamount',['parseAmount',['../classcom_1_1verifone_1_1utilities_1_1_conversion_utility.html#a5d17fd2e17267b59a27a410cad141157',1,'com.verifone.utilities.ConversionUtility.parseAmount(String amt)'],['../classcom_1_1verifone_1_1utilities_1_1_conversion_utility.html#a7c81dfb5308bdcea4c278ed7fca9df88',1,'com.verifone.utilities.ConversionUtility.parseAmount(double amt)']]],
-  ['parseemployeefromintent',['parseEmployeeFromIntent',['../classcom_1_1verifone_1_1commerce_1_1content_1_1_employee_manager.html#a8af7266059558f087f8d92601cea51b7',1,'com::verifone::commerce::content::EmployeeManager']]],
-  ['print',['print',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_receipt.html#a8a02e389cc72d2c5a10608484c77bc57',1,'com::verifone::commerce::payment::Receipt']]],
-  ['println',['println',['../classcom_1_1verifone_1_1utilities_1_1_log.html#abb4bdb4fd1b38131fdaf36fb9b89cc51',1,'com::verifone::utilities::Log']]],
-  ['processrefund',['processRefund',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_transaction_manager.html#af66d94bcd1eba4ac78eac2dd99b11b05',1,'com::verifone::commerce::payment::TransactionManager']]],
-  ['processvoid',['processVoid',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_transaction_manager.html#a8ee1413fba1c40e750076532a49d17b0',1,'com::verifone::commerce::payment::TransactionManager']]],
-  ['purgebasket',['purgeBasket',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_basket_manager.html#a70fc77c13364fbda8f62ffcd78278882',1,'com::verifone::commerce::payment::BasketManager']]],
-  ['put',['put',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_commerce_message.html#adcc04fc20831df3e2d6a6351210092c2',1,'com::verifone::commerce::triggers::CommerceMessage']]]
+  ['oncreate',['onCreate',['../classcom_1_1verifone_1_1examples_1_1_pos_example.html#a85e87cb5ced88dff7c8173ecc4f636d1',1,'com::verifone::examples::PosExample']]],
+  ['onpause',['onPause',['../classcom_1_1verifone_1_1examples_1_1_peripheral_example.html#ad36a232bff79e67140875eff1a578827',1,'com.verifone.examples.PeripheralExample.onPause()'],['../classcom_1_1verifone_1_1examples_1_1_pos_example.html#ad36a232bff79e67140875eff1a578827',1,'com.verifone.examples.PosExample.onPause()']]],
+  ['onreceive',['onReceive',['../classcom_1_1verifone_1_1examples_1_1_receiver_example.html#afe2ab6137f59f9ff640f1e3b74080ad7',1,'com::verifone::examples::ReceiverExample']]],
+  ['onresume',['onResume',['../classcom_1_1verifone_1_1examples_1_1_peripheral_example.html#a14768c382cfd134f7688413a3eb56d08',1,'com.verifone.examples.PeripheralExample.onResume()'],['../classcom_1_1verifone_1_1examples_1_1_pos_example.html#a14768c382cfd134f7688413a3eb56d08',1,'com.verifone.examples.PosExample.onResume()']]],
+  ['onstart',['onStart',['../classcom_1_1verifone_1_1examples_1_1_peripheral_example.html#a11bcf4e3177fdb549350a4aa149e9e67',1,'com::verifone::examples::PeripheralExample']]],
+  ['onstatuschanged',['onStatusChanged',['../classcom_1_1verifone_1_1examples_1_1_peripheral_example.html#a33b98eef901b6af5bfb9a6c5c2fbf380',1,'com.verifone.examples.PeripheralExample.onStatusChanged()'],['../interfacecom_1_1verifone_1_1peripherals_1_1_peripheral_status_listener.html#a33b98eef901b6af5bfb9a6c5c2fbf380',1,'com.verifone.peripherals.PeripheralStatusListener.onStatusChanged()']]],
+  ['open',['open',['../classcom_1_1verifone_1_1peripherals_1_1_cash_drawer.html#a2156ca26ec3f029875eeda2ab3af0c42',1,'com::verifone::peripherals::CashDrawer']]],
+  ['opendrawer',['openDrawer',['../classcom_1_1verifone_1_1examples_1_1_peripheral_example.html#ac1056a160519a7e445f7ed122bfe506d',1,'com::verifone::examples::PeripheralExample']]]
 ];

@@ -1,0 +1,27 @@
+var classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment =
+[
+    [ "generateResponse", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#a6e51cc262bcfb448be7fbe98b0351e8e", null ],
+    [ "getAdjustmentPercentage", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#aad154c11c56e69a65550fa80a9f09907", null ],
+    [ "getAdjustmentValue", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#a091972a675f08e8556081ec7f528a9ef", null ],
+    [ "getDescription", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#ac7feffb7a33f63504ff1f87f19e2d2d8", null ],
+    [ "getFXAccepted", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#aa14c89bb5e290298c14c5567f02938dd", null ],
+    [ "getFXAmount", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#abf6e981aa6c9d0e721b5b6a39f305552", null ],
+    [ "getFXCurrency", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#ac1266284c149adf015f00fa256e4d6bb", null ],
+    [ "getFXInvertedRate", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#a5ac565e57bb63e3f4a1d0b0d2e602fdb", null ],
+    [ "getFXMerchantId", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#a322d53bf6bf2f25db55f8873ed990404", null ],
+    [ "getFXPercentageCommission", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#a51b2fbeef4bfc6e92935087502e7a791", null ],
+    [ "getFXRate", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#af84c2c6dcd30284d84212056ac005264", null ],
+    [ "getFXTerminalId", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#a01000a9914d39d700d560fbfaa3bc60c", null ],
+    [ "send", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#ad3b6f5cfa54998080bdc9b98c3f25319", null ],
+    [ "setAdjustmentPercentage", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#af433d6df8e12ebd4cf1819b77b1a4d46", null ],
+    [ "setAdjustmentValue", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#ac169aefca1b58150c86561b42d18a59f", null ],
+    [ "setDescription", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#a28c1ee4399203bd84993fc0c92a3fa9a", null ],
+    [ "setFXAccepted", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#a7d8adecc6efb9d625d48b84b74ebadf0", null ],
+    [ "setFXAmount", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#ade0aab928305479127e00d9a36f0c764", null ],
+    [ "setFXCurrency", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#a0f97d8f967135e335835a101535852b6", null ],
+    [ "setFXInvertedRate", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#a4ef61c72eab5bdf989a5c422296900b2", null ],
+    [ "setFXMerchantId", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#ae635449d3cb195767afd3049079d2071", null ],
+    [ "setFXPercentageCommission", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#aa07417c2ec7173a5e13987865157967e", null ],
+    [ "setFXRate", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#a8b9bc39c617d1de0674290c2ca923c7e", null ],
+    [ "setFXTerminalId", "classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html#a38a2ea0485469d5db6068a7bd2085e7c", null ]
+];

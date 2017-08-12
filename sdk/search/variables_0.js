@@ -1,6 +1,9 @@
 var searchData=
 [
+  ['acquirer_5freconciliation_5fcapability',['ACQUIRER_RECONCILIATION_CAPABILITY',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1reports_1_1_report_manager.html#a678108915473a07fd95bdc945e759ad6',1,'com::verifone::commerce::payment::reports::ReportManager']]],
   ['action_5fperipheral_5fstatus_5fchanged',['ACTION_PERIPHERAL_STATUS_CHANGED',['../classcom_1_1verifone_1_1peripherals_1_1_peripheral_manager.html#ab16c5a45b9677dbfa4496e3d30d75183',1,'com::verifone::peripherals::PeripheralManager']]],
+  ['alternate',['ALTERNATE',['../enumcom_1_1verifone_1_1commerce_1_1entities_1_1_payment_1_1_payment_type.html#a19ac06159f9a285a3ea460ca28f3a17f',1,'com::verifone::commerce::entities::Payment::PaymentType']]],
+  ['amex',['AMEX',['../classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#ab9f01785793c2059a4d733520e178b66',1,'com::verifone::commerce::entities::CardInformation']]],
   ['attribute_5factivate_5flight',['ATTRIBUTE_ACTIVATE_LIGHT',['../classcom_1_1verifone_1_1peripherals_1_1_scanner.html#aad83a5e80638981ba1bfc89fd0d57be7',1,'com::verifone::peripherals::Scanner']]],
   ['attribute_5fbarcode',['ATTRIBUTE_BARCODE',['../classcom_1_1verifone_1_1peripherals_1_1_scanner.html#a909cd8a9da5210f6f6e23394e39c0bf3',1,'com::verifone::peripherals::Scanner']]],
   ['attribute_5fbarcode_5fformat',['ATTRIBUTE_BARCODE_FORMAT',['../classcom_1_1verifone_1_1peripherals_1_1_scanner.html#aac34db44b3d14281c6f45db3359cf2fa',1,'com::verifone::peripherals::Scanner']]],
@@ -12,5 +15,8 @@ var searchData=
   ['attribute_5fscan_5farea_5flimit',['ATTRIBUTE_SCAN_AREA_LIMIT',['../classcom_1_1verifone_1_1peripherals_1_1_scanner.html#a740a1274b6af755fe89bae30f88ac0b2',1,'com::verifone::peripherals::Scanner']]],
   ['attribute_5fset_5fdirection',['ATTRIBUTE_SET_DIRECTION',['../classcom_1_1verifone_1_1peripherals_1_1_scanner.html#a8486088995e470db898e669d9d51dd0a',1,'com::verifone::peripherals::Scanner']]],
   ['attribute_5ftare_5fweight',['ATTRIBUTE_TARE_WEIGHT',['../classcom_1_1verifone_1_1peripherals_1_1_scale.html#a337bb2ddb96ee6ac536e8c4bb90e1d93',1,'com::verifone::peripherals::Scale']]],
-  ['attribute_5funit_5fof_5fmeasurement',['ATTRIBUTE_UNIT_OF_MEASUREMENT',['../classcom_1_1verifone_1_1peripherals_1_1_scale.html#acef9eb6c8059efb2677d2f99c3ea5cc3',1,'com::verifone::peripherals::Scale']]]
+  ['attribute_5funit_5fof_5fmeasurement',['ATTRIBUTE_UNIT_OF_MEASUREMENT',['../classcom_1_1verifone_1_1peripherals_1_1_scale.html#acef9eb6c8059efb2677d2f99c3ea5cc3',1,'com::verifone::peripherals::Scale']]],
+  ['authorized_5fexternally',['AUTHORIZED_EXTERNALLY',['../enumcom_1_1verifone_1_1commerce_1_1entities_1_1_payment_1_1_authorization_result.html#abeb2e6cd01a89653dfba7e25b3c9846d',1,'com::verifone::commerce::entities::Payment::AuthorizationResult']]],
+  ['authorized_5foffline',['AUTHORIZED_OFFLINE',['../enumcom_1_1verifone_1_1commerce_1_1entities_1_1_payment_1_1_authorization_result.html#a3b2934844e65604a06ff8c6d6a90dd7e',1,'com::verifone::commerce::entities::Payment::AuthorizationResult']]],
+  ['authorized_5fonline',['AUTHORIZED_ONLINE',['../enumcom_1_1verifone_1_1commerce_1_1entities_1_1_payment_1_1_authorization_result.html#ace2942bf9f74d97ef8e0cf0264ef1993',1,'com::verifone::commerce::entities::Payment::AuthorizationResult']]]
 ];
