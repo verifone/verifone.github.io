@@ -1,0 +1,5 @@
+var enumcom_1_1verifone_1_1commerce_1_1triggers_1_1api_1_1_app_requests_append_receipt_1_1_append_type =
+[
+    [ "CARD_HOLDER_RECEIPT_FOOTER", "enumcom_1_1verifone_1_1commerce_1_1triggers_1_1api_1_1_app_requests_append_receipt_1_1_append_type.html#a8877498ecb25c02ed894b51c558b1001", null ],
+    [ "MERCHANT_RECEIPT_FOOTER", "enumcom_1_1verifone_1_1commerce_1_1triggers_1_1api_1_1_app_requests_append_receipt_1_1_append_type.html#a6f9b380bef7ff16ad28fae1abefcde81", null ]
+];
