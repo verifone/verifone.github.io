@@ -1,27 +1,10 @@
 var searchData=
 [
-  ['scale',['Scale',['../classcom_1_1verifone_1_1peripherals_1_1_scale.html',1,'com::verifone::peripherals']]],
   ['scanner',['Scanner',['../classcom_1_1verifone_1_1peripherals_1_1_scanner.html',1,'com::verifone::peripherals']]],
   ['scannerbarcodeformat',['ScannerBarcodeFormat',['../classcom_1_1verifone_1_1peripherals_1_1_scanner_barcode_format.html',1,'com::verifone::peripherals']]],
+  ['senddatatoposrequest',['SendDataToPosRequest',['../classcom_1_1verifone_1_1commerce_1_1api_1_1_send_data_to_pos_request.html',1,'com::verifone::commerce::api']]],
+  ['senddatatoposresponse',['SendDataToPosResponse',['../classcom_1_1verifone_1_1commerce_1_1api_1_1_send_data_to_pos_response.html',1,'com::verifone::commerce::api']]],
   ['status',['Status',['../classcom_1_1verifone_1_1commerce_1_1_status.html',1,'com::verifone::commerce']]],
   ['storedvaluecardevent',['StoredValueCardEvent',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_stored_value_card_event.html',1,'com::verifone::commerce::payment']]],
-  ['storedvaluecardinformation',['StoredValueCardInformation',['../classcom_1_1verifone_1_1commerce_1_1entities_1_1_stored_value_card_information.html',1,'com::verifone::commerce::entities']]],
-  ['systemnotifiesamountfinalized',['SystemNotifiesAmountFinalized',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_amount_finalized.html',1,'com::verifone::commerce::triggers']]],
-  ['systemnotifiesauthorizationcompleted',['SystemNotifiesAuthorizationCompleted',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_authorization_completed.html',1,'com::verifone::commerce::triggers']]],
-  ['systemnotifiesbasketfinalized',['SystemNotifiesBasketFinalized',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_basket_finalized.html',1,'com::verifone::commerce::triggers']]],
-  ['systemnotifiescardbinreceived',['SystemNotifiesCardBinReceived',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_card_bin_received.html',1,'com::verifone::commerce::triggers']]],
-  ['systemnotifiescardpresented',['SystemNotifiesCardPresented',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_card_presented.html',1,'com::verifone::commerce::triggers']]],
-  ['systemnotifiespaymentcompleted',['SystemNotifiesPaymentCompleted',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_payment_completed.html',1,'com::verifone::commerce::triggers']]],
-  ['systemnotifiestransactionended',['SystemNotifiesTransactionEnded',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_transaction_ended.html',1,'com::verifone::commerce::triggers']]],
-  ['systemnotifiestransactionstarted',['SystemNotifiesTransactionStarted',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_notifies_transaction_started.html',1,'com::verifone::commerce::triggers']]],
-  ['systemreceivesaltpayment',['SystemReceivesAltPayment',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_alt_payment.html',1,'com::verifone::commerce::triggers']]],
-  ['systemreceivesamountadjustment',['SystemReceivesAmountAdjustment',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_amount_adjustment.html',1,'com::verifone::commerce::triggers']]],
-  ['systemreceivesbasketadjustment',['SystemReceivesBasketAdjustment',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_basket_adjustment.html',1,'com::verifone::commerce::triggers']]],
-  ['systemreceivesloyalty',['SystemReceivesLoyalty',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_loyalty.html',1,'com::verifone::commerce::triggers']]],
-  ['systemreceivespaymentamountadjustment',['SystemReceivesPaymentAmountAdjustment',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_receives_payment_amount_adjustment.html',1,'com::verifone::commerce::triggers']]],
-  ['systemrequestsaltpayment',['SystemRequestsAltPayment',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_alt_payment.html',1,'com::verifone::commerce::triggers']]],
-  ['systemrequestsamountadjustment',['SystemRequestsAmountAdjustment',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_amount_adjustment.html',1,'com::verifone::commerce::triggers']]],
-  ['systemrequestsbasketadjustment',['SystemRequestsBasketAdjustment',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_basket_adjustment.html',1,'com::verifone::commerce::triggers']]],
-  ['systemrequestsloyalty',['SystemRequestsLoyalty',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_loyalty.html',1,'com::verifone::commerce::triggers']]],
-  ['systemrequestspaymentamountadjustment',['SystemRequestsPaymentAmountAdjustment',['../classcom_1_1verifone_1_1commerce_1_1triggers_1_1_system_requests_payment_amount_adjustment.html',1,'com::verifone::commerce::triggers']]]
+  ['storedvaluecardinformation',['StoredValueCardInformation',['../classcom_1_1verifone_1_1commerce_1_1entities_1_1_stored_value_card_information.html',1,'com::verifone::commerce::entities']]]
 ];

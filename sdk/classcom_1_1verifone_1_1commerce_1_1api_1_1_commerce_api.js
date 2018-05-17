@@ -1,6 +1,8 @@
 var classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api =
 [
-    [ "getCpAppId", "classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api.html#af9ad285f82f0c0e10acf772fbd80dd37", null ],
-    [ "getCpAppVersion", "classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api.html#a3db36afe70a55d884b49373d573a875e", null ],
-    [ "setHandle", "classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api.html#a51b1e171b63f83ce40009a10a5eb75cb", null ]
+    [ "getAsJsonString", "classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api.html#a6d9f9248682e790e1a2617d059d94541", null ],
+    [ "getCpAppId", "classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api.html#a598f14074aa19e4e3aaca0cec81bbf9e", null ],
+    [ "getCpAppVersion", "classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api.html#a72accfe6e573821e17db820d6abdb528", null ],
+    [ "getMessageType", "classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api.html#ab2ca4a22cb65a20fe84f3e07f44cd2b0", null ],
+    [ "populateMessageFromJson", "classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api.html#a895f73946cfe39f5978047c1a9be70f8", null ]
 ];

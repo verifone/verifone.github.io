@@ -1,7 +1,7 @@
 var classcom_1_1verifone_1_1peripherals_1_1_peripheral =
 [
     [ "endSession", "classcom_1_1verifone_1_1peripherals_1_1_peripheral.html#a482235a5f177226a0cb203afb68d5100", null ],
-    [ "getAttributes", "classcom_1_1verifone_1_1peripherals_1_1_peripheral.html#aae35bc928727bf94727a7cae08f1b54a", null ],
+    [ "getAttributes", "classcom_1_1verifone_1_1peripherals_1_1_peripheral.html#aacca3476cafda2bfc8f75f344c1e7555", null ],
     [ "getConnectionType", "classcom_1_1verifone_1_1peripherals_1_1_peripheral.html#a6699c0a376757f2034f42b860d459d78", null ],
     [ "getHardwareId", "classcom_1_1verifone_1_1peripherals_1_1_peripheral.html#ab5c607f5feb1ac98e95cc3a58c6f0f21", null ],
     [ "getId", "classcom_1_1verifone_1_1peripherals_1_1_peripheral.html#a8555acf02add2bd2d23caa9c49ffe8f2", null ],

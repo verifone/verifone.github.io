@@ -6,5 +6,6 @@ var enumcom_1_1verifone_1_1commerce_1_1entities_1_1_payment_1_1_payment_type =
     [ "CREDIT", "enumcom_1_1verifone_1_1commerce_1_1entities_1_1_payment_1_1_payment_type.html#a8a89cb3ba69b64a52eb3cb70ae2f2569", null ],
     [ "DEBIT", "enumcom_1_1verifone_1_1commerce_1_1entities_1_1_payment_1_1_payment_type.html#ad3a25d60603053e7757f2a4c7033a664", null ],
     [ "EBT", "enumcom_1_1verifone_1_1commerce_1_1entities_1_1_payment_1_1_payment_type.html#aea0bd08813fef356f96dd4cf397d3c9b", null ],
+    [ "MOBILE", "enumcom_1_1verifone_1_1commerce_1_1entities_1_1_payment_1_1_payment_type.html#a0747a3818c65f5023ea1702864600942", null ],
     [ "STORED_VALUE", "enumcom_1_1verifone_1_1commerce_1_1entities_1_1_payment_1_1_payment_type.html#a4f1c764e47384204345ada3119fac678", null ]
 ];

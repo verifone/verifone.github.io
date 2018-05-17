@@ -1,6 +1,7 @@
 var classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket_item =
 [
     [ "BasketItem", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket_item.html#af0c3c972742b7e9518ef6158876fa299", null ],
+    [ "buildToCpJson", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket_item.html#a10aff7e7d5fee82e2f7cdb1946d91b1b", null ],
     [ "compareTo", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket_item.html#ab6647a68ed5a8d7382302a663ae86ed1", null ],
     [ "getAmount", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket_item.html#a76fe4965daec2b6e73e8c7d5e9fa71db", null ],
     [ "getAmountTotals", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket_item.html#a1be6cdaa0979d98ab2a15f23a8b0de31", null ],

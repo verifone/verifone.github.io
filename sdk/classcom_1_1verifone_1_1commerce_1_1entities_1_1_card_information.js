@@ -4,6 +4,7 @@ var classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information =
     [ "TokenizationMethod", "enumcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information_1_1_tokenization_method.html", "enumcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information_1_1_tokenization_method" ],
     [ "CardInformation", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#a211b755db640002cf642be2f7a7fa69c", null ],
     [ "CardInformation", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#adc791da60cd9b50810541859e102a426", null ],
+    [ "getAccountReference", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#ad1a7ff798bef93c3be9e1e1c8c6c5fe0", null ],
     [ "getAvailableBalance", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#a767840cb30e77de3785168293e398284", null ],
     [ "getBankUserData", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#a5a1716666e330bb06e91259f6f26f184", null ],
     [ "getBin", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#ab89af27f4b6fb7b088ef82b34c6383e9", null ],
@@ -29,6 +30,7 @@ var classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information =
     [ "getPanLast4", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#ac167d1226030d9d964f87240969079bd", null ],
     [ "getPaymentBrand", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#a49060cd869e3d6e50c1bb02791d072fd", null ],
     [ "getPresentationMethod", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#afdc1d2ebfa3c44a265405e29cd753dff", null ],
+    [ "setAccountReference", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#a95530827200c49082f790e1c3e42d61b", null ],
     [ "setAvailableBalance", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#abba79179b6b681ee15a2c79196ebfebe", null ],
     [ "setBankUserData", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#af158683538fce26e0c043b6ae38d237f", null ],
     [ "setBin", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#a0949a07e05975020f56c8c208e5ec0dc", null ],
@@ -54,5 +56,6 @@ var classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information =
     [ "setPanLast4", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#a31eca97d4c9a185c7259fb38352d098c", null ],
     [ "setPaymentBrand", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#a4cb72645f3443be642ec202b008942fa", null ],
     [ "setPresentationMethod", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#adc9294408f305f779f2f0f05273da77a", null ],
+    [ "writeToJson", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#a1d19a5036d969b584f429a3e84e74a0f", null ],
     [ "writeToParcel", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html#a679436408fb653f1fa595e7faaec0cbd", null ]
 ];

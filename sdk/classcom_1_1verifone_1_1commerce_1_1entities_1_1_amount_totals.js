@@ -1,6 +1,7 @@
 var classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_totals =
 [
     [ "AmountTotals", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_totals.html#a14b34cc4749f19ed4e62fe88f50c857d", null ],
+    [ "AmountTotals", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_totals.html#a455313a426fd21ee8a66712a9eb227d1", null ],
     [ "AmountTotals", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_totals.html#a4097915e139a10eb9c3a04ed13b569b4", null ],
     [ "addAmounts", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_totals.html#ae553f8d87e3f86c7e3fcc52ee119e803", null ],
     [ "getRunningGratuity", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_totals.html#a5f7d378d7bd9791eaa4d8cfd39204133", null ],

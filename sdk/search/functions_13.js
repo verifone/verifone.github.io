@@ -1,6 +1,7 @@
 var searchData=
 [
   ['w',['w',['../classcom_1_1verifone_1_1utilities_1_1_log.html#aedd8bd59fdea90df494e564b12a2f6af',1,'com.verifone.utilities.Log.w(String tag, String msg)'],['../classcom_1_1verifone_1_1utilities_1_1_log.html#a770e3c9a695866dc4c1e74832bc71209',1,'com.verifone.utilities.Log.w(String tag, String msg, Throwable tr)'],['../classcom_1_1verifone_1_1utilities_1_1_log.html#a40a54445375d598006760473c44a3ba8',1,'com.verifone.utilities.Log.w(String tag, Throwable tr)']]],
+  ['write',['write',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_terminal_channel.html#af63aae6aec0968904c61efbf21aec190',1,'com::verifone::commerce::payment::TerminalChannel']]],
   ['writetoparcel',['writeToParcel',['../classcom_1_1verifone_1_1commerce_1_1payment_1_1_direct_response.html#a679436408fb653f1fa595e7faaec0cbd',1,'com.verifone.commerce.payment.DirectResponse.writeToParcel()'],['../classcom_1_1verifone_1_1peripherals_1_1_printer.html#a679436408fb653f1fa595e7faaec0cbd',1,'com.verifone.peripherals.Printer.writeToParcel()']]],
   ['wtf',['wtf',['../classcom_1_1verifone_1_1utilities_1_1_log.html#ac3cf3af672c75d96e4b2d5c45055d449',1,'com.verifone.utilities.Log.wtf(String tag, String msg)'],['../classcom_1_1verifone_1_1utilities_1_1_log.html#a4b1071955227b72f3b59f64ecf76c020',1,'com.verifone.utilities.Log.wtf(String tag, Throwable tr)'],['../classcom_1_1verifone_1_1utilities_1_1_log.html#ae5e4dd9ee7c6c942fb984128f83d67cb',1,'com.verifone.utilities.Log.wtf(String tag, String msg, Throwable tr)']]]
 ];

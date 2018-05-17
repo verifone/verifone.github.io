@@ -1,12 +1,13 @@
 var namespacecom_1_1verifone_1_1commerce_1_1api =
 [
-    [ "AppReceivesAppendReceipt", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_receives_append_receipt.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_receives_append_receipt" ],
-    [ "AppReceivesCardData", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_receives_card_data.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_receives_card_data" ],
-    [ "AppReceivesEncryptedCard", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_receives_encrypted_card.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_receives_encrypted_card" ],
-    [ "AppReceivesSendDataToPos", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_receives_send_data_to_pos.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_receives_send_data_to_pos" ],
-    [ "AppRequestsAppendReceipt", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_requests_append_receipt.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_requests_append_receipt" ],
-    [ "AppRequestsCardData", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_requests_card_data.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_requests_card_data" ],
-    [ "AppRequestsEncryptedCard", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_requests_encrypted_card.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_requests_encrypted_card" ],
-    [ "AppRequestsSendDataToPos", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_requests_send_data_to_pos.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_app_requests_send_data_to_pos" ],
-    [ "CommerceApi", "classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api" ]
+    [ "APIResult", "enumcom_1_1verifone_1_1commerce_1_1api_1_1_a_p_i_result.html", "enumcom_1_1verifone_1_1commerce_1_1api_1_1_a_p_i_result" ],
+    [ "AppendReceiptRequest", "classcom_1_1verifone_1_1commerce_1_1api_1_1_append_receipt_request.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_append_receipt_request" ],
+    [ "AppendReceiptResponse", "classcom_1_1verifone_1_1commerce_1_1api_1_1_append_receipt_response.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_append_receipt_response" ],
+    [ "CardDataRequest", "classcom_1_1verifone_1_1commerce_1_1api_1_1_card_data_request.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_card_data_request" ],
+    [ "CardDataResponse", "classcom_1_1verifone_1_1commerce_1_1api_1_1_card_data_response.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_card_data_response" ],
+    [ "CommerceApi", "classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_commerce_api" ],
+    [ "EncryptedCardRequest", "classcom_1_1verifone_1_1commerce_1_1api_1_1_encrypted_card_request.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_encrypted_card_request" ],
+    [ "EncryptedCardResponse", "classcom_1_1verifone_1_1commerce_1_1api_1_1_encrypted_card_response.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_encrypted_card_response" ],
+    [ "SendDataToPosRequest", "classcom_1_1verifone_1_1commerce_1_1api_1_1_send_data_to_pos_request.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_send_data_to_pos_request" ],
+    [ "SendDataToPosResponse", "classcom_1_1verifone_1_1commerce_1_1api_1_1_send_data_to_pos_response.html", "classcom_1_1verifone_1_1commerce_1_1api_1_1_send_data_to_pos_response" ]
 ];

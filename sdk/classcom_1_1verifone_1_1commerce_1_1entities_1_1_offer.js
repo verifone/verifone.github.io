@@ -2,6 +2,7 @@ var classcom_1_1verifone_1_1commerce_1_1entities_1_1_offer =
 [
     [ "Offer", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_offer.html#ad667d9529368d5af4f11f7feba038cca", null ],
     [ "Offer", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_offer.html#adb67b08bef7f686745756000c12c0712", null ],
+    [ "buildToCpJson", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_offer.html#a10aff7e7d5fee82e2f7cdb1946d91b1b", null ],
     [ "getAssociatedProductCode", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_offer.html#afcf5187e0968d8b2d7bfe011deed7efd", null ],
     [ "getMerchantOfferCode", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_offer.html#a7e0f7211026f8beeedccfebaddc09a2f", null ],
     [ "getOfferCombinable", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_offer.html#a89579a31fe011b6bcd00190339abc98e", null ],

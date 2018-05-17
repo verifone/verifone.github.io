@@ -4,10 +4,9 @@ var searchData=
   ['commerce',['commerce',['../namespacecom_1_1verifone_1_1commerce.html',1,'com::verifone']]],
   ['content',['content',['../namespacecom_1_1verifone_1_1commerce_1_1content.html',1,'com::verifone::commerce']]],
   ['entities',['entities',['../namespacecom_1_1verifone_1_1commerce_1_1entities.html',1,'com::verifone::commerce']]],
-  ['examples',['examples',['../namespacecom_1_1verifone_1_1examples.html',1,'com::verifone']]],
   ['payment',['payment',['../namespacecom_1_1verifone_1_1commerce_1_1payment.html',1,'com::verifone::commerce']]],
-  ['peripherals',['peripherals',['../namespacecom_1_1verifone_1_1peripherals.html',1,'com::verifone']]],
+  ['reports',['reports',['../namespacecom_1_1verifone_1_1commerce_1_1payment_1_1reports.html',1,'com::verifone::commerce::payment']]],
   ['triggers',['triggers',['../namespacecom_1_1verifone_1_1commerce_1_1triggers.html',1,'com::verifone::commerce']]],
-  ['util',['util',['../namespacecom_1_1verifone_1_1util.html',1,'com::verifone']]],
+  ['utilities',['utilities',['../namespacecom_1_1verifone_1_1utilities.html',1,'com::verifone']]],
   ['verifone',['verifone',['../namespacecom_1_1verifone.html',1,'com']]]
 ];

@@ -1,17 +1,17 @@
 var namespacecom_1_1verifone_1_1commerce_1_1entities =
 [
     [ "AmountAdjustment", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_adjustment.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_adjustment" ],
-    [ "AmountAdjustmentFinal", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_adjustment_final.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_adjustment_final" ],
     [ "AmountTotals", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_totals.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_amount_totals" ],
     [ "Basket", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket" ],
+    [ "BasketAdjustment", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket_adjustment.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket_adjustment" ],
     [ "BasketItem", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket_item.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket_item" ],
-    [ "BasketWrapper", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket_wrapper.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_basket_wrapper" ],
     [ "CardInformation", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_card_information" ],
     [ "Device", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_device.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_device" ],
-    [ "DeviceInternal", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_device_internal.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_device_internal" ],
     [ "Donation", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_donation" ],
     [ "Employee", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_employee.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_employee" ],
+    [ "ICpToJson", "interfacecom_1_1verifone_1_1commerce_1_1entities_1_1_i_cp_to_json.html", "interfacecom_1_1verifone_1_1commerce_1_1entities_1_1_i_cp_to_json" ],
     [ "LoginInformation", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_login_information.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_login_information" ],
+    [ "LoyaltyAdjustment", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_loyalty_adjustment.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_loyalty_adjustment" ],
     [ "LoyaltyIdentifier", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_loyalty_identifier.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_loyalty_identifier" ],
     [ "Merchandise", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchandise.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchandise" ],
     [ "Merchant", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchant.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_merchant" ],
@@ -21,12 +21,9 @@ var namespacecom_1_1verifone_1_1commerce_1_1entities =
     [ "OutputContent", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_output_content.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_output_content" ],
     [ "OutputText", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_output_text.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_output_text" ],
     [ "Payment", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_payment.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_payment" ],
-    [ "PaymentInternal", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_payment_internal.html", null ],
     [ "PredefinedContent", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_predefined_content.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_predefined_content" ],
     [ "Receipt", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt" ],
-    [ "ReceiptInternal", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_receipt_internal" ],
     [ "StoredValueCardInformation", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_stored_value_card_information.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_stored_value_card_information" ],
     [ "Transaction", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_transaction.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_transaction" ],
-    [ "TransactionInternal", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_transaction_internal.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_transaction_internal" ],
     [ "Venue", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_venue.html", "classcom_1_1verifone_1_1commerce_1_1entities_1_1_venue" ]
 ];
